@@ -1,7 +1,7 @@
 # go-surrealdb
 build go app and surrealdb 
 
-## start surreadb with Makefile
+## start surrealdb with Makefile
 `$ make db-start`
 
 ## run go app
